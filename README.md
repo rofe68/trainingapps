@@ -1,1 +1,2 @@
 # trainingapps
+¤ Just a test
